@@ -1,5 +1,5 @@
 # Fitness Activity Recognition
-This repository contains all the code developed for the **Fitness Activity Recognition** track as part of the fellowship cohort by LaunchPad AI of the period from Jan-Mar 2022 and Apr-Jun 2022.
+This repository contains all the code developed for the **Fitness Activity Recognition** track as part of the fellowship cohort by LaunchPad AI of the period from Jan-Mar 2022, Apr-Jun 2022 and July-Sep 2022.
 
 ### BlazePose: A 3D Pose Estimation Model
 
